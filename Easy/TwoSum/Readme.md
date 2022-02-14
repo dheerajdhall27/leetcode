@@ -2,6 +2,14 @@
 
 One of the most asked beginner level interview question. The problem is easily solvable by using brute force. But, the optimization that they look for is the use of a Hashtable.
 
+**Example:**<br/>
+```
+[2,3,4,5,6,7]
+6
+
+Answer: [0, 2]
+```
+
 ---
 
 ## Problem Statement
