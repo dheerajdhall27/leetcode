@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{A8C6ECDF-5738-442E-AE88-63744EAC7EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{8ED94616-CD94-45E3-B73B-4823D23D10BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{8ED94616-CD94-45E3-B73B-4823D23D10BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{9E1678CC-EE5C-4076-95B1-C1FBD697DD29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8ED94616-CD94-45E3-B73B-4823D23D10BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED94616-CD94-45E3-B73B-4823D23D10BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED94616-CD94-45E3-B73B-4823D23D10BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1678CC-EE5C-4076-95B1-C1FBD697DD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1678CC-EE5C-4076-95B1-C1FBD697DD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1678CC-EE5C-4076-95B1-C1FBD697DD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1678CC-EE5C-4076-95B1-C1FBD697DD29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
